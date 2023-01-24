@@ -1,5 +1,7 @@
 # VivaTerminal_IM30
-PHP Class to use IM30 Terminal
+PHP Class to use IM30 Terminal, copyright Ciram Consulting BV.
+
+If you want to use this code contact us.
 
 ## How to use
 
