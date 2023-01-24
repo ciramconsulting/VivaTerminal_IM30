@@ -32,9 +32,11 @@ if ($hardware_os_terminal->check_Terminal_hardware())
 }
 ```
 
-## Viva Wallet IM 30 Sales Request
+## Based on documentation from VIVA Wallet
+
+### Viva Wallet IM 30 Sales Request
 https://developer.vivawallet.com/apis-for-point-of-sale/card-terminals-devices/vivawallet-api-cl/sale/#txsalerequest
 
-## Viva Wallet IM 30 Sales Response
+### Viva Wallet IM 30 Sales Response
 https://developer.vivawallet.com/apis-for-point-of-sale/card-terminals-devices/vivawallet-api-cl/sale/#txsaleresponse
 
