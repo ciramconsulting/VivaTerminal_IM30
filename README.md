@@ -31,3 +31,10 @@ if ($hardware_os_terminal->check_Terminal_hardware())
     $hardware_os_terminal->send_payment_request_IM30();
 }
 ```
+
+## Viva Wallet IM 30 Sales Request
+https://developer.vivawallet.com/apis-for-point-of-sale/card-terminals-devices/vivawallet-api-cl/sale/#txsalerequest
+
+## Viva Wallet IM 30 Sales Response
+https://developer.vivawallet.com/apis-for-point-of-sale/card-terminals-devices/vivawallet-api-cl/sale/#txsaleresponse
+
