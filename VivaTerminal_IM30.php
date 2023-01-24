@@ -1,5 +1,9 @@
 <?php
 
+/*
+Created by Jan Muyldermans for VIVA Terminal Integration
+*/
+
 class VivaTerminal_IM30
 {
     // Enabled this to show debug information on screen.
