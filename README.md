@@ -1,7 +1,5 @@
 # VivaTerminal_IM30
-PHP Class to use IM30 Terminal
-
-If you want to use this code contact us.
+PHP Class to use IM30 Terminal (BSD 3-Clause License)
 
 ## How to use
 
