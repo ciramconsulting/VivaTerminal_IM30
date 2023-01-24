@@ -15,6 +15,9 @@ $hardware_os_terminal = new VivaTerminal_IM30();
 ```
 
 Set Terminal Settings
+
+Param: Ip of the terminal, tcp/ip port of the terminal, Native Socket (true or false), Max Attempts
+
 ```
 $hardware_os_terminal->SetTerminalSettings("192.168.120.136","8080", 30, false, 3);
 ```
