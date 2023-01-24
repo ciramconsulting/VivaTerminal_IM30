@@ -1,1 +1,18 @@
-
+{
+    "name": "The BSD 3-Clause \"New\" or \"Revised\" License (BSD)",
+    "priority": 2,
+    "available": true,
+    "url": "http://opensource.org/licenses/BSD-3-Clause",
+    "description": "The BSD 3-clause license allows you almost unlimited freedom with the software so long as you include the BSD copyright notice in it. \"Use trademark\" in this case means you cannot use the names of the original company or its members to endorse derived products.",
+    "categories": [
+        "public",
+        "software",
+        "permissive"
+    ],
+    "labels": [
+        "public",
+        "bsd",
+        "osi"
+    ],
+    "key": "bsd-3c"
+}
