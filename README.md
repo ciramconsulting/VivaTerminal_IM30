@@ -1,6 +1,8 @@
 # VivaTerminal_IM30
 PHP Class to use IM30 Terminal (BSD 3-Clause License)
 
+This PHP code is to initiate and collect failed payments, correct payments are collected through the Viva Wallet webhook.
+
 ## How to use
 
 Include the IM30 Class.
