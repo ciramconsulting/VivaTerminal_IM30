@@ -24,12 +24,12 @@ Param: Ip of the terminal, tcp/ip port of the terminal, Native Socket (true or f
 $hardware_os_terminal->SetTerminalSettings("192.168.120.136","8080", 30, false, 3);
 ```
 
-Start a transaction
+Start a transaction for 0,1 €
 ```
 if ($hardware_os_terminal->check_Terminal_hardware()) 
 {
     $TestUUID = $hardware_os_terminal->GUID32();
-    $hardware_os_terminal->generate_manually_transaction_details("0.01", $TestUUID);
+    $hardware_os_terminal->generate_manually_transaction_details("10", $TestUUID);
     $hardware_os_terminal->send_payment_request_IM30();
 }
 ```
